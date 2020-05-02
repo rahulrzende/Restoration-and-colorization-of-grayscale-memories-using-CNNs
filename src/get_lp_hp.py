@@ -78,3 +78,10 @@ def get_lp_hp(im, sigma=10):
     
     return(im_low, im_sharp)
 
+def test_function():
+    """
+    This is a test function created to test the ability to define multiple functions within a module and call them by importing accordingly
+    """
+    print("Hello")
+
+
