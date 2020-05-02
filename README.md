@@ -1,4 +1,4 @@
-# Colorful memories
+# Memories Revived
 
 We aim to perform the following enhancements on Black-White images :
  - Denoising (Wiener filter, etc.)
