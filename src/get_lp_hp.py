@@ -76,8 +76,8 @@ def get_lp_hp(im, sigma=10):
     im_low = resize(im_low, (a,b), anti_aliasing=True)
     im_high = resize(im_high, (a,b), anti_aliasing=True)
     
-    return(im_low, im_sharp)
-
+    return(im_low, im_sharp)  
+    print("hello")
 def test_function():
     """
     This is a test function created to test the ability to define multiple functions within a module and call them by importing accordingly
